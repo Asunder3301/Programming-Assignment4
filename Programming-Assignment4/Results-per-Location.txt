@@ -1,0 +1,16 @@
+Clarksville
+Total cost for this location is $18505.50
+Total profit for this location is $11494.50
+The store owes $574.73 to corporate
+
+Nashville
+Total cost for this location is $50769.25
+Total profit for this location is $49230.75
+The store owes $2461.54 to corporate
+
+Dickson
+The store did not make a profit. Location will be reevaluated.
+
+This comapny currently has 3 stores.
+The total profit for all stores is $60575.75
+The total amoint paid to corporate is $3036.26

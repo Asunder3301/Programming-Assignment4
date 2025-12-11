@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trash\\source\\repos\\Programming-Assignment4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78A11EDE-0B37-4A61-852C-63B289C802B3}|Programming-Assignment4\\Programming-Assignment4.vcxproj|C:\\Users\\trash\\source\\repos\\Programming-Assignment4\\Programming-Assignment4\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78A11EDE-0B37-4A61-852C-63B289C802B3}|Programming-Assignment4\\Programming-Assignment4.vcxproj|solutionrelative:Programming-Assignment4\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\trash\\source\\repos\\Programming-Assignment4\\Programming-Assignment4\\Source.cpp",
+              "RelativeDocumentMoniker": "Programming-Assignment4\\Source.cpp",
+              "ToolTip": "C:\\Users\\trash\\source\\repos\\Programming-Assignment4\\Programming-Assignment4\\Source.cpp",
+              "RelativeToolTip": "Programming-Assignment4\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAC0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-16T18:32:16.293Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
